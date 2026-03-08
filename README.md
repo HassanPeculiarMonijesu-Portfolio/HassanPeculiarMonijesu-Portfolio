@@ -13,7 +13,7 @@
 
 # 👋 Hi, I'm Hassan Monijesu Peculiar
 
-💼 Aspiring Data Analyst | Dashboard Developer | Data Storyteller
+💼 Data Analyst | Dashboard Developer | Data Storyteller
 📍 Lagos, Nigeria
 
 I am a **self-driven Data Analyst** with hands-on experience turning complex datasets into **clear insights and interactive dashboards** using **Power BI, Tableau, SQL, Python, and Excel**.
